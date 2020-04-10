@@ -6,4 +6,4 @@ eurekaServer:
 feign:
   client:
     provide:
-      name: configtest-feign-local-v2
+      name: configtest-feign-local
