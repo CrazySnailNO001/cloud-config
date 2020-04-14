@@ -1,0 +1,10 @@
+server:
+  port: 90900
+
+eurekaServer:
+  port: 6666
+feign:
+  client:
+    provide:
+      name: configtest-feign-local-test02
+      path: /provide
