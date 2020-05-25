@@ -8,4 +8,4 @@ feign:
     provide:
       name: configtest-feign-local
       path: /provide
-test: test
+test: test02
